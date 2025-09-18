@@ -15,15 +15,15 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+#Developed by: ROHITH S
+#RegisterNumber:25008317
 import numpy as np
 a=np.array([[1,-3],[3,1]])
 b=np.array([0,10])
 print(np.linalg.solve(a,b))
 ```
 ## Output:
-```
-Expected	Got	
-[3. 1.]  [3. 1.]
-```
+<img width="296" height="138" alt="image" src="https://github.com/user-attachments/assets/5cfbe535-5cf1-40fb-88ec-49489954c24b" />
+
 # Result:
 Thus the solutions for the linear equations are successfully solved using python program
